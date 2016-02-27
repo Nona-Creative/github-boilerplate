@@ -23,6 +23,7 @@ Commits should also be kept as small as possible, commit messages should be less
 ### Issues
 If you think you've found a bug, or have a concern, check that its not already itemised in the current issues, and then use the issue template if appropriate, if design / style related screenshots are helpful, and if its a feature please describe it fully.
 
-
+### External Contributors
+Contributers external to Nona Cretaive that work on private repositories can be added the the settings page of that repository rather than adding them to teams etc. This allows for much more fine grained access control.
 
  
