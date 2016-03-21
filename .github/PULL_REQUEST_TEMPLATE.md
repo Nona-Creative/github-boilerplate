@@ -1,32 +1,14 @@
 ## Scope 
- - Ready to review
- - In Progress
+Description of feature / issue, and links to issue...
 
-Description....
-
-### Area of Application / Project Impacted 
-
-
-
-### Related issues & PR's
-
- - closes #
- - related to #
+### Work DOne
+ What you did, and where you did it...
 
 ## Steps to Test
-
- - ..
- - .
-
-## TODO : 
- - [x] Create PR
- - [ ] First Review
- - [ ] Second Review
- - [ ] task to complete
- - [ ] task...
+how can we test it...
 
 ## Screen Shots
-
+if appropriate....
 
 
 
