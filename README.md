@@ -1,4 +1,8 @@
-# github-boilerplate
-all the bits and pieces for a new repo.
+# Project Title
+Brief description of the project goes here....
 
-Setting up a new repository can take time, as we agree on new boilerplate items such as the various configs we have for different services and issue / pr templates we'll add them here so starting a new project gets even easier.
+## Setup & Dependancies
+explain the basics and any special setup notes / requirements.
+
+## License
+if its a module, service or demo we're likely to share drop some MIT love on it.
