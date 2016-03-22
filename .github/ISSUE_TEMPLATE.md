@@ -2,7 +2,7 @@
 
 
 ## To Reproduce
-To reporoduce this issue : 
+To reproduce this issue : 
 
 * ...
 * ..
