@@ -5,9 +5,6 @@
 .AppleDouble
 .LSOverride
 
-# Icon must end with two \r
-Icon
-
 # Thumbnails
 ._*
 
@@ -43,7 +40,6 @@ $RECYCLE.BIN/
 # Dependency directories
 node_modules
 .sass-cache
-
 
 
 # for a selection of useful project specific template see https://github.com/github/gitignore
