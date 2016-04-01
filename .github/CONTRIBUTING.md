@@ -13,6 +13,8 @@ We use two primary branches.  `master` and `develop`.  `develop` is what you'll 
 ### Contributing to the project
 Always branch, and use the below naming schema for branches. Once you've completed the work for that branch, push it up to github and create a Pull Request against development.
 
+As with issues, and pr's we're aiming to keep branches as short lived as possible, this reduces transaction costs, review time, merge conflicxts and helps build momentum in the team. 
+
 
 #### Naming Branches
 We prefix our branch names to make it easier to see what branches relate to.
