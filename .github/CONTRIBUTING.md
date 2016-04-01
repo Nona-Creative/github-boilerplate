@@ -25,10 +25,12 @@ We prefix our branch names to make it easier to see what branches relate to.
 
 
 ### Pull Requests
-Pull requests should be kept as small as possible, this eases review, and avoids unnessesary merge confilcts.  Pull Requests should be reviewed by two team members.
+Pull requests should be kept as small as possible and solve a single problem ideally, this eases review, and avoids unnessesary merge confilcts.  Pull Requests should be reviewed by two team members.
 
 **NB :** for front-end changes and style fixes, adding screen shots to the pull request is tremendously helpful in explaining what was done and why.
 
+### Merging and Deleting
+Once two thumbs up :+1 have been received on a PR, and all issues resolved, It should be merged quickly to avoid becoming "stale" and the branch deleted on github.
 
 ### Commits & Commit Messages
 Commits should also be kept as small as possible, commit titles should be less than 80 characters, and additional descriptions should be used when neccessary.  
