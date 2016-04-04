@@ -22,7 +22,7 @@ We prefix our branch names to make it easier to see what branches relate to.
 * `feature/<name>`  - a new feature
 * `fix/<name>` - fixes an issue
 * `style/<name>` - small front end updates
-* `hotfilx/<name>` - fixes against a release
+* `hotfix/<name>` - fixes against a release
 * `release/<name>` - preparing for a release
 
 
