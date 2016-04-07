@@ -40,6 +40,11 @@ $RECYCLE.BIN/
 # Dependency directories
 node_modules
 .sass-cache
-
+.npm
+npm-debug.log
+bower_components
+*.orig
+.build
+.idea/
 
 # for a selection of useful project specific template see https://github.com/github/gitignore
