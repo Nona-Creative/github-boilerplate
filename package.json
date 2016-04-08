@@ -1,6 +1,6 @@
 {
   "name": "Github-BoilerPlate",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "a standard repo starter",
   "devDependencies": {
     "babel-eslint": "^5.0.0",
@@ -11,6 +11,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Paul van Zyl",
+  "author": "Nona Creative",
   "license": "MIT"
 }
