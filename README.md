@@ -1,8 +1,8 @@
-# Project Title
+# Project title
 Brief description of the project goes here....
 
-## Setup & Dependancies
-explain the basics and any special setup notes / requirements.
+## Setup and dependancies
+Explain the basics and any special setup notes/requirements.
 
 ## License
-if its a module, service or demo we're likely to share drop some MIT love on it.
+If it's a module, service or demo we're likely to share drop some MIT love on it.
