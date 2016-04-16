@@ -1,5 +1,5 @@
 This code of conduct outlines our expectations for participants within the
-**Nona Creative** orgnaisation and community. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. We cannot allow violation of this code of conduct.
+**Nona Creative** orgnaisation and community. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored.
 
 Our company strives to:
 
