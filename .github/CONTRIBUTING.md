@@ -3,6 +3,13 @@ To keep our repositories as uniform as possible, and work together effectively p
 
 ## Our Git workflow
 
+Clearly, as we're on Github, we're using GIT to manage our codebases, code review and versioning.  If you're new to git, or gitflow please see the following links
+
+* [Git cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+* [Github Flow - basic concept](https://guides.github.com/introduction/flow/)
+* [Atlassian Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
+* [Atlassian Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview/)
+
 ### Feature branch workflow - small projects
 
 For smaller projects we're following this feature branch workflow that can be found [here](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
