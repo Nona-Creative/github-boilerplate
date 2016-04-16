@@ -3,7 +3,7 @@ To keep our repositories as uniform as possible, and work together effectively p
 
 ## Our Git workflow
 
-Clearly, as we're on Github, we're using GIT to manage our codebases, code review and versioning.  If you're new to git, or gitflow please see the following links
+Clearly, as we're on Github, we're using Git to manage our codebases, code review and versioning.  If you're new to Git, or Gitflow please see the following links:
 
 * [Git cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * [Github Flow - basic concept](https://guides.github.com/introduction/flow/)
