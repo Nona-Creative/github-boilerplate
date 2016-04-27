@@ -5,6 +5,7 @@ To keep our repositories as uniform as possible, and work together effectively p
 
 Clearly, as we're on Github, we're using Git to manage our codebases, code review and versioning.  If you're new to Git, or Gitflow please see the following links:
 
+* [Get Git Quickly](https://learnxinyminutes.com/docs/git/)
 * [Git cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * [Github Flow - basic concept](https://guides.github.com/introduction/flow/)
 * [Atlassian Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
